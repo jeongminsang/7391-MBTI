@@ -1,0 +1,195 @@
+[
+	{
+		"id": 1,
+		"option": "EI",
+		"imagePath":"img/Q1.png" ,
+		"question": "학교 입학 후 첫 동아리를 고르고 있다.",
+		"answers": [
+			{
+				"type": "E",
+				"content": "많은 사람들이 모이는 활동적인 동아리를 고른다."
+			},
+			{
+				"type": "I",
+				"content": "비교적 조용하고 활동량이 적은 동아리를 고른다."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"option": "EI",
+		"imagePath":"/img/Q2.png" ,
+		"question": "학교가는 버스를 한 정거장 빨리 내린 당신. 나처럼 실수하고 같이 내린 또래의 이성",
+		"answers": [
+			{
+				"type": "E",
+
+				"content": "심심하니 말을 걸어 함께 걸어간다."
+			},
+			{
+				"type": "I",
+				"content": "버스를 다시 기다리며 정류장에 남는다"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"option": "EI",
+		"imagePath":"/img/Q3.png" ,
+		"question": "휴학했다가 복학하고 오랜만에 있었던 동아리실을 방문했다.",
+		"answers": [
+			{
+				"type": "E",
+				"content": "오랜만에 보는 모든 친구들과 인사를 나눈다"
+			},
+			{
+				"type": "I",
+				"content": "친했던 친구한테만 인사하고 빠르게 나온다"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"option": "SN",
+		"imagePath":"/img/Q4.png" ,
+		"question": "영화관에서 영화를 보고 여운이 남아서 장면들을 다시 떠올리고 있다.",
+		"answers": [
+			{
+				"type": "S",
+				"content": "등장인물, 배우에 대한 부분이나 전반적인 스토리에 관련된 장면"
+			},
+			{
+				"type": "N",
+				"content": "감동적인 장면이나 자극적인 장면"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"which": "SN",
+		"imagePath":"/img/Q5.png" ,
+		"question": "요리를 시작하려고 한다. 일단 재료를 준비해서 넣어야겠지?",
+		"answers": [
+			{
+				"type": "S",
+				"content": "(정량계량컵으로) 한컵."
+			},
+			{
+				"type": "N",
+				"content": "난 계량기 따윈 쓰지않는다. 오직 나의 손이 계량기일뿐."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"which": "SN",
+		"imagePath":"/img/Q6.png" ,
+		"question": "과제를 정해진 시간에 제출하지 못하였다.",
+		"answers": [
+			{
+				"type": "S",
+				"content": "과제 미제출로 인한 학점 걱정"
+			},
+			{
+				"type": "N",
+				"content": "왜 과제가 오늘까지였지?"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"option": "TF",
+		"imagePath":"/img/Q7.png", 
+		"question": "수업이 끝나고 친구와 함께 통학버스를 기다리는데 휴대폰을 강의실에 놓고온걸 깜빡했다.",
+		"answers": [
+			{
+				"type": "T",
+				"content": "강의실 좀 다녀올게 버스오면 먼저 가"
+			},
+			{
+				"type": "F",
+				"content": "같이 강의실 다녀오자 혼자가면 심심하잖아..ㅠ"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"option": "TF",
+		"imagePath":"/img/Q8.png" ,
+		"question": "통학버스를 놓친 나",
+		"answers": [
+			{
+				"type": "T",
+				"content": "바로 다음 차를 알아본다."
+			},
+			{
+				"type": "F",
+				"content": "에라 모르겠다 일단 밥부터 먹자"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"option": "TF",
+		"imagePath":"/img/Q9.png" ,
+		"question": "같은 수업듣는 강의실에서 만난 마음에 드는 이성",
+		"answers": [
+			{
+				"type": "T",
+				"content": "스쳐 가는 인연이니 학점을 위해 지나간다."
+			},
+			{
+				"type": "F",
+				"content": "학점은 이미 안중에도 없다. 이 사람과 같이 얘기하고 싶어"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"option": "JP",
+		"imagePath":"/img/Q10.png", 
+		"question": "00아 시험도 끝났는데 놀러갈까~?",
+		"answers": [
+			{
+				"type": "J",
+				"content": "그래~ 근데 어디서 만날까? 만나면 뭐하지? 갈땐 어떻게 가지?"
+			},
+			{
+				"type": "P",
+				"content": "그래~ 일단 만나서 어디갈지 상황보고 정하자"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"option": "JP",
+		"imagePath":"/img/Q11.png" ,
+		"question": "아침에 눈을 떴는데 9시 수업을 가야하는 상황이다. 근데 굉장히 귀찮다.",
+		"answers": [
+			{
+				"type": "J",
+				"content": "(6시30분)아...그냥 대충 나갈까"
+			},
+			{
+				"type": "P",
+				"content": "(8시30분)아...그냥 대충 나갈까"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"option": "JP",
+		"imagePath":"/img/Q12.png" ,
+		"question": "교수님이 수업끝나고 과제를 내주셨다.",
+		"answers": [
+			{
+				"type": "J",
+				"content": "일단 계획부터하고~ 제출일까지 2주남았으니까..지금 시작하자!"
+			},
+			{
+				"type": "P",
+				"content": "제출일이 2주나 남았네? 일단 밥부터 먹고 생각해야지~"
+			}
+		]
+	}
+]
